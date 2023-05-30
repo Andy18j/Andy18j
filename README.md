@@ -5,7 +5,7 @@
 # 💫 About Me:
 i'm currently learning
 My Portfolio - https://andy18j.github.io/
-how to reach me on mail👇
+<br> how to reach me on mail👇<br>
 nike.jadhao143358@gmail.com
 
 ## 🌐 Socials:
