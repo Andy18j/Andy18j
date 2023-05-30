@@ -2,8 +2,7 @@
 
 
 ## 🌐 Socials:
-my linkdin👇 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-jadhao-660b03216/)
+
 
 # 💫 About Me:
 i'm currently learning
@@ -12,7 +11,8 @@ My Portfolio - https://andy18j.github.io/
 nike.jadhao143358@gmail.com
 
 
-
+my linkdin👇 <br>
+https://www.linkedin.com/in/aniket-jadhao-660b03216/
 
 
 # 💻 Tech Stack:
