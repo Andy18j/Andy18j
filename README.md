@@ -7,7 +7,7 @@ i'm currently learning
 My Portfolio - https://andy18j.github.io/
 <br> how to reach me on mail👇<br>
 nike.jadhao143358@gmail.com
-<!-- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-jadhao-660b03216/)
 
